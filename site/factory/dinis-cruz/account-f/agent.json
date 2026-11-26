@@ -8,8 +8,9 @@
   },
   "state": "categories for 19 articles pushed to the website dev (84e25a7e4, security yes); waiting for CI to number a release; candidates held (Algarve Evolution events)",
   "waiting_on": [
-    "my wake",
-    "CI release containing 84e25a7e4 (deploy-pages queued)"
+    "CI release containing website commit 84e25a7e4 (cl-6.dev and cl-6.devops on the queue)",
+    "the checker's confirmation of the Algarve Evolution events before I commission anything"
   ],
-  "updated": "2026-11-26T06:15:55Z"
+  "updated": "2026-11-26T06:16:09Z",
+  "wake": "trig_0119oATabct3wgv5SmUxp7Xq, 07:47 and 18:47 Lisbon (created by the conductor)"
 }
