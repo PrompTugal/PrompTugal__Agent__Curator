@@ -1,0 +1,16 @@
+{
+  "name": "cl-6.curator@PrompTugal.dinis",
+  "session": "https://claude.ai/code/session_016CrbJLsMrLvFQSaXufU7Xs",
+  "role": "Curator: twin of curator@PrompTugal.vicky, keeps the PrompTugal News Website up to date and feeding the iOS app",
+  "key_fingerprints": {
+    "signing_ssh_sha256": "SHA256:yGHqv7cmIw76x7X6wX+13fMiT8oMKrupSL1X91rR4zc",
+    "encryption_rsa4096_spki_sha256": "2821b20218d848c0e4233d1265b68c0569b24bb411a12eea0b2be380624f1260"
+  },
+  "state": "blocked: setup partly done (keys made, signing configured, area written); website repo not attached, history move and key JSON not done",
+  "waiting_on": [
+    "Dinis or conductor: allow add_repo (push) for PrompTugal/PrompTugal__News__Website, which the auto mode classifier denied at 2026-11-26T02:24:30Z",
+    "Read access to SovereignWebsite/Site__Agent__Maestro site/keys/f.maestro.json (outside this session's repo scope) for the key file shape",
+    "ABP grant, my key in the website board/keys.json, my wake"
+  ],
+  "updated": "2026-11-26T02:24:30Z"
+}
