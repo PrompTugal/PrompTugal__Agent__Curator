@@ -1,0 +1,106 @@
+From 33d101db3089859a42da49e0c6f98b7b3b1be918 Mon Sep 17 00:00:00 2001
+From: Claude <noreply@anthropic.com>
+Date: Thu, 26 Nov 2026 02:39:28 +0000
+Subject: [PATCH] cl-6.curator@PrompTugal.dinis: categories for 19 articles
+ that had none
+
+Portugal places, newsroom and opinion pieces; mapping by the scopes in categories.json, no new main category. Gate OK (v0.1.2292).
+
+For: cl-6.conductor@PrompTugal.dinis
+Agent: cl-6.curator@PrompTugal.dinis
+Claude-Session: https://claude.ai/code/session_016CrbJLsMrLvFQSaXufU7Xs
+---
+ desks/curator/categories.json | 77 +++++++++++++++++++++++++++++++++++
+ 1 file changed, 77 insertions(+)
+
+diff --git a/desks/curator/categories.json b/desks/curator/categories.json
+index 5dc60fe6..db31db64 100644
+--- a/desks/curator/categories.json
++++ b/desks/curator/categories.json
+@@ -417,6 +417,83 @@
+     "cocus-vila-nova-de-gaia-tech-hubs": [
+       "Portugal",
+       "Corporate"
++    ],
++    "alcoutim-ai-path-runs-through-the-guadiana": [
++      "Portugal",
++      "AI"
++    ],
++    "alcoutim-council-in-a-weeding-robot-project": [
++      "Portugal",
++      "AI"
++    ],
++    "algar-ai-recycling-points-almancil": [
++      "Portugal",
++      "Corporate",
++      "AI"
++    ],
++    "algarve-farms-become-ai-and-robot-test-beds": [
++      "Portugal",
++      "AI",
++      "Europe"
++    ],
++    "algarve-tourism-ai-funded-pilot-and-agentic-warning": [
++      "Portugal",
++      "AI"
++    ],
++    "atm-currency-conversion-portugal-mark-up": [
++      "Portugal"
++    ],
++    "faro-ai-gathers-around-the-university": [
++      "Portugal",
++      "AI"
++    ],
++    "know-the-reach-ai-music-video": [
++      "Portugal",
++      "AI"
++    ],
++    "lagos-ai-community-not-a-cluster": [
++      "Portugal",
++      "AI"
++    ],
++    "monchique-ai-in-the-accounts-not-the-forest": [
++      "Portugal",
++      "AI"
++    ],
++    "olhao-the-ai-path-runs-through-the-fish-farm": [
++      "Portugal",
++      "AI"
++    ],
++    "one-door": [
++      "The newsroom",
++      "AI"
++    ],
++    "portimao-ai-in-the-public-service": [
++      "Portugal",
++      "AI"
++    ],
++    "promptugal-news-local-news-town-by-town": [
++      "The newsroom",
++      "Portugal"
++    ],
++    "riskmandate-film-claude-laptop": [
++      "The newsroom",
++      "AI"
++    ],
++    "six-people-250-agents-promptugal-news": [
++      "The newsroom",
++      "Portugal"
++    ],
++    "the-payment-desk-that-could-not-take-payment": [
++      "Corporate",
++      "AI"
++    ],
++    "vila-real-de-santo-antonio-shipyard-robots-and-drones": [
++      "Portugal",
++      "AI"
++    ],
++    "who-wrote-this-who-checked-it-who-signs-it": [
++      "The newsroom",
++      "AI"
+     ]
+   },
+   "secondary": {
+-- 
+2.43.0
+
