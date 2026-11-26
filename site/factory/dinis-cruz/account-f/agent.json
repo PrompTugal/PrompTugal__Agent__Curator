@@ -6,12 +6,10 @@
     "encryption": "sha256:2821b20218d848c0",
     "signing": "sha256:dc3744ec15cd2f66"
   },
-  "state": "area pass done: categories for 19 articles proposed to security (not shipped); no website push until key entry, ABP policy and security yes",
+  "state": "key in website board/keys.json (59758fb9); ABP policy read (observe mode); categories for 19 articles held locally for cl-6.security's yes, then pushed",
   "waiting_on": [
     "cl-6.security yes on the categories proposal",
-    "my key in website board/keys.json (or conductor's word to publish it myself)",
-    "ABP policy from cl-6.abp",
     "my wake"
   ],
-  "updated": "2026-11-26T02:40:02Z"
+  "updated": "2026-11-26T02:42:23Z"
 }
