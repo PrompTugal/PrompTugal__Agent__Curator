@@ -6,11 +6,11 @@
     "encryption": "sha256:2821b20218d848c0",
     "signing": "sha256:dc3744ec15cd2f66"
   },
-  "state": "categories for 19 articles pushed to the website dev (84e25a7e4, security yes); waiting for CI to number a release; candidates held (Algarve Evolution events)",
+  "state": "wake 11:14 UTC done: no new candidate since the 01:25 map; categories shipped (in the live releases); run report filed (runs/cl-6.curator)",
   "waiting_on": [
-    "CI release containing website commit 84e25a7e4 (cl-6.dev and cl-6.devops on the queue)",
-    "the checker's confirmation of the Algarve Evolution events before I commission anything"
+    "the checker's confirmation of the Algarve Evolution events (DevFest Faro is tomorrow, 27 Nov) before I commission anything",
+    "my next wake, 18:47 Lisbon"
   ],
-  "updated": "2026-11-26T06:16:09Z",
+  "updated": "2026-11-26T11:15:17Z",
   "wake": "trig_0119oATabct3wgv5SmUxp7Xq, 07:47 and 18:47 Lisbon (created by the conductor)"
 }

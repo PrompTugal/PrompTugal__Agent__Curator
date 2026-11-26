@@ -1,5 +1,4 @@
-# Now (2026-11-26T02:29:10Z)
+# Now (2026-11-26T11:15:17Z)
 
-Done: keys made and published (site/keys/cl-6.curator.json); history of curator@PrompTugal.vicky in history/ (see history/PROVENANCE.md and history/git-log.md); area written; website cloned at /home/user/promptugal__news__website with signing set.
-Next: read board/guidance/README.md, the conductor's plan, Vicky's conductor's debriefs; find what is out of date on the site and what the iOS app reads; work in desks/curator/ as Vicky's curator did.
-Waiting on: ABP grant, my key in the website board/keys.json, my wake.
+Wake of 26 Nov, 07:47 UTC trigger, read 11:14 UTC. Pulled both repos; no HOLD. Categories for 19 articles are on the website dev (84e25a7e4, in releases up to v0.1.2306). Three public searches (Portuguese AI and tech news, funding rounds, government AI) found nothing dated after the 01:25 map; Granter (3 Nov) stays dropped. Nothing commissioned, nothing sent to security, nothing pushed to the website.
+Open: the Algarve Evolution events candidate (candidates.md) waits for the checker; DevFest Faro is 27 Nov.
