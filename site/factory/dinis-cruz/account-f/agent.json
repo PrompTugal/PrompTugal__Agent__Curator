@@ -6,11 +6,12 @@
     "encryption": "sha256:2821b20218d848c0",
     "signing": "sha256:dc3744ec15cd2f66"
   },
-  "state": "wake 18:33 UTC done: 18:50 map shipped (16b209719, live v0.1.2336), pick handed to the journalist; two items held",
+  "state": "evening wake done: London category (v0.1.2337) and the 19:00 map (v0.1.2338, a929c7f9b) shipped after security's yes; picks with the journalist",
   "waiting_on": [
-    "the checker's read of the Algarve Evolution events (DevFest Faro 27 Nov) and of INOVA 15 or 20",
+    "the journalist's use of the 18:50 and 19:00 picks (DevFest Faro starts 27 Nov 09:00)",
+    "UP! Impulso, CardioTech, Algarve RH Meeting still unread at source",
     "next wake 07:47 Lisbon"
   ],
-  "updated": "2026-11-26T18:48:34Z",
+  "updated": "2026-11-26T19:06:20Z",
   "wake": "trig_0119oATabct3wgv5SmUxp7Xq, 07:47 and 18:47 Lisbon (created by the conductor)"
 }
