@@ -1,0 +1,20 @@
+{
+  "agent": "cl-6.curator@PrompTugal.dinis",
+  "name": "cl-6.curator",
+  "role": "Curator: twin of curator@PrompTugal.vicky, keeps the PrompTugal News Website up to date and feeding the iOS app",
+  "session": "https://claude.ai/code/session_016CrbJLsMrLvFQSaXufU7Xs",
+  "encryption_fingerprint": "sha256:2821b20218d848c0",
+  "signing_fingerprint": "sha256:dc3744ec15cd2f66",
+  "ssh": "ecdsa-sha2-nistp256 AAAAE2VjZHNhLXNoYTItbmlzdHAyNTYAAAAIbmlzdHAyNTYAAABBBKNyRbtUP+SLdBhmuEu3LI9/W8dL0EINvet2WDGd8sC5Cl7bpFoRtpkbUYQ+6lX8JkP0hXBRAjeU6xDAPVY4xWk=",
+  "bundle": {
+    "v": 1,
+    "encrypt": "-----BEGIN PUBLIC KEY-----\nMIICIjANBgkqhkiG9w0BAQEFAAOCAg8AMIICCgKCAgEA2bSTa2Pp6LIN0WFnfrVj\nJcp3l/OcWMC2+ZyXNEBfgcabmO1jSa6hwEtz+2OIPE2fTf9avHoO06WPUxZP7RlK\nObs1kBQvY9mxaRIBvxTRrIwopm8gZRmUWIcYY9JbzeggtTxGMDKKZYiwdtZBJBpu\nS4kWgazwxKSTKAJ+P7JyCDOLivJZHjqPe4dzbJYQ3mGTztcedNGrx+BwWG6DFyEp\npNURTxmwincmWtal4rbEBHbrYZiD1AUB3oLzq3HI3l0FAs1kuqunzGXICxiNXTdh\nQV9H+PWzIeZaA1PSH8y8D695LFCh55n6jsxMLEKSKRqxn3TB95YqdP4o7YlPJ26w\nYLGUHLTWtMbU6BvrqTVyVJwmWyPko2fOv7zpp/Q6v60BvCTyANhOtszsoJG4HLWr\nj1fptyuvxcl57CqkuREsaWz2WsA+0f6hm5ymHFLKCByymPLo9uqCzBu6j67r4V6p\nC22bP9MrCRoCPyFxZVyryLOA7QOVeElqS7gjHK8f7kGfCMCp75MEFAbwOqYeE/Ef\n1kbb6ghxJ1nDusO08y3xv6JZO1aBMHacMR4fMrV0kd15Gdgvz7WV6p+NvFyIMfzz\nmgFGFM1DW66NxQHLPHzpDPjXSCDYXwEa1HFUxWG6w5hesoRuFJlPBd2bLcbEu6Kh\n2hYRxTG9kLeqbYTCY2LSGw8CAwEAAQ==\n-----END PUBLIC KEY-----\n",
+    "sign": "-----BEGIN PUBLIC KEY-----\nMFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEo3JFu1Q/5It0GGa4S7csj39bx0vQ\nQg2963ZYMZ3ywLkKXtukWhG2mRtRhD7qVfwmQ/SFcFECN5TrEMA9VjjFaQ==\n-----END PUBLIC KEY-----\n",
+    "label": "cl-6.curator@PrompTugal.dinis",
+    "fingerprint": "sha256:2821b20218d848c0",
+    "signing_fingerprint": "sha256:dc3744ec15cd2f66"
+  },
+  "first_published": "2026-11-26T02:25:00Z",
+  "status": "active",
+  "note": "A session key: it ends with this session. The private halves never leave the session."
+}
