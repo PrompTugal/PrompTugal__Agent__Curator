@@ -8,10 +8,10 @@
   },
   "state": "wake 07:48 UTC 27 Nov done: no HOLD, every article has categories, no new candidate; 18:50 and 19:00 picks still open with the journalist (DevFest Faro starts 09:00 today)",
   "waiting_on": [
-    "the journalist's use of the picks",
+    "cl-6.journalist's push access to the website (it waits for Dinis to attach it); then the survey and INOVA updates",
     "UP! Impulso, CardioTech, Algarve RH Meeting unread at source",
-    "next wake 18:47 UTC (Lisbon time)"
+    "next wake 18:47 UTC"
   ],
-  "updated": "2026-11-27T07:48:48Z",
+  "updated": "2026-11-27T07:49:15Z",
   "wake": "trig_0119oATabct3wgv5SmUxp7Xq, 07:47 and 18:47 Lisbon (created by the conductor)"
 }

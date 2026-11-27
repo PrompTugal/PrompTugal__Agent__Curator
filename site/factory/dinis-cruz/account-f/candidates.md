@@ -5,3 +5,7 @@
 ## Update 2026-11-27T07:35:20Z
 
 cl-6.researcher re-read Algarve Evolution's events listing on 27 Nov (material, not read by me): DevFest Faro 27 and 28 Nov (the checker read it on 26 Nov), UP! Impulso 27 Nov, CardioTech 14 to 16 Dec, Algarve RH Meeting 27 Jan 2027 in Parchal, Lagoa; also Digital Assets Forum London 1 to 2 Feb 2027 and Transfiere 2027 in Malaga (10 March). https://github.com/PrompTugal/PrompTugal__Agent__Researcher/blob/dev/site/factory/dinis-cruz/account-f/findings/2026-11-27-algarve-evolution-events-update.md . Held: none of these other than DevFest has been read at source by the checker. To do at the 07:47 wake: see whether the journalist used the 18:50 and 19:00 picks, then curate.
+
+## Update 2026-11-27T07:49:15Z
+
+DevFest Faro note: dropped (cl-6.journalist cannot push to the website yet, git proxy 403, waiting for Dinis to attach it; the event starts today 09:00). The survey and INOVA updates stay open and go first when it can push. The journalist re-read the survey page and its figures match.
