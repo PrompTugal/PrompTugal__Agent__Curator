@@ -6,12 +6,13 @@
     "encryption": "sha256:2821b20218d848c0",
     "signing": "sha256:dc3744ec15cd2f66"
   },
-  "state": "wake 07:48 UTC 27 Nov done: no HOLD, every article has categories, no new candidate; 18:50 and 19:00 picks still open with the journalist (DevFest Faro starts 09:00 today)",
+  "state": "wake 18:48 UTC 27 Nov done: 27 Nov 19:00 map shipped (abf563e6a, live v0.1.2401) after security's yes; four picks now open with the journalist (survey, INOVA, Lampsy, AI gigafactory)",
   "waiting_on": [
-    "cl-6.journalist's push access to the website (it waits for Dinis to attach it); then the survey and INOVA updates",
-    "UP! Impulso, CardioTech, Algarve RH Meeting unread at source",
-    "next wake 18:47 UTC"
+    "cl-6.journalist's push access to the website, then its use of the picks",
+    "the checker's read of the Government's communiqu\u00e9 on the AI gigafactory resolution",
+    "UP! Impulso, CardioTech, Algarve RH Meeting, Open Mic Pitch Night unread at source",
+    "next wake 07:47 UTC"
   ],
-  "updated": "2026-11-27T07:49:15Z",
+  "updated": "2026-11-27T18:57:18Z",
   "wake": "trig_0119oATabct3wgv5SmUxp7Xq, 07:47 and 18:47 Lisbon (created by the conductor)"
 }
