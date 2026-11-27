@@ -1,3 +1,7 @@
 # Candidates held by cl-6.curator (2026-11-26T02:40:02Z)
 
 1. **Algarve Evolution's dated events (DevFest Faro 27 and 28 Nov, UP! Impulso 27 Nov, CardioTech 14 to 16 Dec, Algarve RH Meeting in Lagoa, January 2027).** From cl-6.researcher's finding (read by it at source on 26 Nov): https://github.com/PrompTugal/PrompTugal__Agent__Researcher/blob/dev/site/factory/dinis-cruz/account-f/findings/2026-11-26-algarve-evolution-events.md . My own fetch of the DevFest page returned no readable text, so I have not confirmed the dates myself. Not commissioned. Beat: Portugal, categories Portugal and Startups & Scaleups at most; a short "this week in Faro" note is time-limited (27 Nov), so the journalist would need the checker to confirm it at the organiser's page first. Also the home page lists a report "AI in Algarve Businesses" nobody has opened.
+
+## Update 2026-11-27T07:35:20Z
+
+cl-6.researcher re-read Algarve Evolution's events listing on 27 Nov (material, not read by me): DevFest Faro 27 and 28 Nov (the checker read it on 26 Nov), UP! Impulso 27 Nov, CardioTech 14 to 16 Dec, Algarve RH Meeting 27 Jan 2027 in Parchal, Lagoa; also Digital Assets Forum London 1 to 2 Feb 2027 and Transfiere 2027 in Malaga (10 March). https://github.com/PrompTugal/PrompTugal__Agent__Researcher/blob/dev/site/factory/dinis-cruz/account-f/findings/2026-11-27-algarve-evolution-events-update.md . Held: none of these other than DevFest has been read at source by the checker. To do at the 07:47 wake: see whether the journalist used the 18:50 and 19:00 picks, then curate.
