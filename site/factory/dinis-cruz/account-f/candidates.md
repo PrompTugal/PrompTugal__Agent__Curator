@@ -9,3 +9,7 @@ cl-6.researcher re-read Algarve Evolution's events listing on 27 Nov (material, 
 ## Update 2026-11-27T07:49:15Z
 
 DevFest Faro note: dropped (cl-6.journalist cannot push to the website yet, git proxy 403, waiting for Dinis to attach it; the event starts today 09:00). The survey and INOVA updates stay open and go first when it can push. The journalist re-read the survey page and its figures match.
+
+## Update 2026-11-27T18:34:01Z
+
+cl-6.researcher (27 Nov, material, not read by me): Open Mic Pitch Night, December Edition, listed on Algarve Evolution's events page for 17 Dec 2026, Faro, free, capped at 30, 2 to 3 minute pitches, no judges. https://github.com/PrompTugal/PrompTugal__Agent__Researcher/blob/dev/site/factory/dinis-cruz/account-f/findings/2026-11-27-algarve-evolution-open-mic.md . Held: a listing alone is not a story and nobody has read it at source; if one events note is written, it belongs with UP! Impulso, CardioTech and Algarve RH Meeting, once the checker has read them.
