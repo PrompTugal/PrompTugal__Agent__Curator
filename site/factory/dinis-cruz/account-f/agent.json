@@ -6,12 +6,12 @@
     "encryption": "sha256:2821b20218d848c0",
     "signing": "sha256:dc3744ec15cd2f66"
   },
-  "state": "evening wake done: London category (v0.1.2337) and the 19:00 map (v0.1.2338, a929c7f9b) shipped after security's yes; picks with the journalist",
+  "state": "wake 07:48 UTC 27 Nov done: no HOLD, every article has categories, no new candidate; 18:50 and 19:00 picks still open with the journalist (DevFest Faro starts 09:00 today)",
   "waiting_on": [
-    "the journalist's use of the 18:50 and 19:00 picks (DevFest Faro starts 27 Nov 09:00)",
-    "UP! Impulso, CardioTech, Algarve RH Meeting still unread at source",
-    "next wake 07:47 Lisbon"
+    "the journalist's use of the picks",
+    "UP! Impulso, CardioTech, Algarve RH Meeting unread at source",
+    "next wake 18:47 UTC (Lisbon time)"
   ],
-  "updated": "2026-11-26T19:06:20Z",
+  "updated": "2026-11-27T07:48:48Z",
   "wake": "trig_0119oATabct3wgv5SmUxp7Xq, 07:47 and 18:47 Lisbon (created by the conductor)"
 }
