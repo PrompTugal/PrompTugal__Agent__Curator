@@ -1,3 +1,4 @@
-# Now (2026-11-27T07:48:48Z)
+# Now (2026-11-28T07:48:36Z)
 
-Wake of 27 Nov, 07:48 UTC. Pulled both repos; no HOLD; 117 articles, all with categories. Searches (Portugal tech, Lisbon rounds) found nothing new and Portuguese: Aqura Systems and Permut (tech.eu, 25 Nov) show no Portugal link on the page, dropped. Picks of 26 Nov (18:50 survey, 19:00 INOVA and DevFest) not yet used by the journalist; nudged. Nothing sent to security, nothing pushed to the website.
+Wake of 28 Nov, 07:48 UTC. Pulled both repos; no HOLD; 117 articles, all with categories; no article published since 27 Nov 08:11 (the journalist waits for push access to the website). One search pass found nothing new: Lampsy Health is already picked, Wilco already dropped. Nothing sent to security, nothing pushed to the website.
+Open: the four picks with the journalist; the checker's read of the Government's communiqué on the AI gigafactory resolution; the Algarve Evolution events (UP! Impulso, CardioTech, Algarve RH Meeting, Open Mic Pitch Night) unread at source.
